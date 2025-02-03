@@ -29,7 +29,7 @@ O Datareq contém 1502 requisitos, separados entre funcionais e não-funcionais 
 
 ## Como usar
 Clone o repositório:
-```{git clone [URL do repositório]}```
+```git clone https://github.com/Johnvasc/Datareq.git```
 
 ## Contato
 
